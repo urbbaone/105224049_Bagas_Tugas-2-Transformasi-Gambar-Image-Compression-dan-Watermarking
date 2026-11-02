@@ -1,0 +1,318 @@
+{
+  "random_seed": 42,
+  "compression_results": [
+    {
+      "Image": "BMP (Uncompressed)",
+      "Technique": "Huffman Coding",
+      "Type": "Lossless",
+      "Original_Size_KB": 900.052734375,
+      "Comp_Size_KB": 693.294921875,
+      "CR": 1.2982249054137427,
+      "Space_Saving_%": 22.97174427713654,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 61.28549575805664
+    },
+    {
+      "Image": "BMP (Uncompressed)",
+      "Technique": "DEFLATE (zlib L9)",
+      "Type": "Lossless",
+      "Original_Size_KB": 900.052734375,
+      "Comp_Size_KB": 4.466796875,
+      "CR": 201.4984696108439,
+      "Space_Saving_%": 99.50371831511609,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 11.638164520263672
+    },
+    {
+      "Image": "BMP (Uncompressed)",
+      "Technique": "JPEG (Q=85)",
+      "Type": "Lossy",
+      "Original_Size_KB": 900.052734375,
+      "Comp_Size_KB": 19.4482421875,
+      "CR": 46.27938739643485,
+      "Space_Saving_%": 97.83921081013048,
+      "PSNR_dB": 41.56964786790773,
+      "SSIM": 0.9940703333805374,
+      "Time_ms": 0.8416175842285156
+    },
+    {
+      "Image": "BMP (Uncompressed)",
+      "Technique": "JPEG (Q=50)",
+      "Type": "Lossy",
+      "Original_Size_KB": 900.052734375,
+      "Comp_Size_KB": 11.515625,
+      "CR": 78.1592605156038,
+      "Space_Saving_%": 98.72056107823543,
+      "PSNR_dB": 35.8725249229604,
+      "SSIM": 0.9842766157068094,
+      "Time_ms": 0.7615089416503906
+    },
+    {
+      "Image": "BMP (Uncompressed)",
+      "Technique": "JPEG (Q=15)",
+      "Type": "Lossy",
+      "Original_Size_KB": 900.052734375,
+      "Comp_Size_KB": 7.982421875,
+      "CR": 112.75434303890384,
+      "Space_Saving_%": 99.11311620195865,
+      "PSNR_dB": 31.19789823554357,
+      "SSIM": 0.9719821594828194,
+      "Time_ms": 0.7283687591552734
+    },
+    {
+      "Image": "PNG (High Frequency)",
+      "Technique": "Huffman Coding",
+      "Type": "Lossless",
+      "Original_Size_KB": 34.4931640625,
+      "Comp_Size_KB": 225.841796875,
+      "CR": 0.15273153393121222,
+      "Space_Saving_%": -554.7436369298717,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 64.37253952026367
+    },
+    {
+      "Image": "PNG (High Frequency)",
+      "Technique": "DEFLATE (zlib L9)",
+      "Type": "Lossless",
+      "Original_Size_KB": 34.4931640625,
+      "Comp_Size_KB": 7.1533203125,
+      "CR": 4.8219795221843,
+      "Space_Saving_%": 79.26162905919992,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 23.978471755981445
+    },
+    {
+      "Image": "PNG (High Frequency)",
+      "Technique": "JPEG (Q=85)",
+      "Type": "Lossy",
+      "Original_Size_KB": 34.4931640625,
+      "Comp_Size_KB": 43.7587890625,
+      "CR": 0.7882568234060122,
+      "Space_Saving_%": -26.86220661929164,
+      "PSNR_dB": 34.13127364805055,
+      "SSIM": 0.9874868501356594,
+      "Time_ms": 0.9393692016601562
+    },
+    {
+      "Image": "PNG (High Frequency)",
+      "Technique": "JPEG (Q=50)",
+      "Type": "Lossy",
+      "Original_Size_KB": 34.4931640625,
+      "Comp_Size_KB": 24.734375,
+      "CR": 1.3945435881238155,
+      "Space_Saving_%": 28.291950964015744,
+      "PSNR_dB": 29.719266481650624,
+      "SSIM": 0.9637301544282053,
+      "Time_ms": 0.827789306640625
+    },
+    {
+      "Image": "PNG (High Frequency)",
+      "Technique": "JPEG (Q=15)",
+      "Type": "Lossy",
+      "Original_Size_KB": 34.4931640625,
+      "Comp_Size_KB": 13.65234375,
+      "CR": 2.52653791130186,
+      "Space_Saving_%": 60.42014665496447,
+      "PSNR_dB": 26.256285076835546,
+      "SSIM": 0.9318052962127488,
+      "Time_ms": 0.766754150390625
+    },
+    {
+      "Image": "JPEG (Standard Photo)",
+      "Technique": "Huffman Coding",
+      "Type": "Lossless",
+      "Original_Size_KB": 33.3486328125,
+      "Comp_Size_KB": 729.337890625,
+      "CR": 0.045724530757509624,
+      "Space_Saving_%": -2087.00986851738,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 62.088966369628906
+    },
+    {
+      "Image": "JPEG (Standard Photo)",
+      "Technique": "DEFLATE (zlib L9)",
+      "Type": "Lossless",
+      "Original_Size_KB": 33.3486328125,
+      "Comp_Size_KB": 58.736328125,
+      "CR": 0.5677684301532937,
+      "Space_Saving_%": -76.12814430876453,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 23.574113845825195
+    },
+    {
+      "Image": "JPEG (Standard Photo)",
+      "Technique": "JPEG (Q=85)",
+      "Type": "Lossy",
+      "Original_Size_KB": 33.3486328125,
+      "Comp_Size_KB": 19.4609375,
+      "CR": 1.7136190285026094,
+      "Space_Saving_%": 41.64397200503676,
+      "PSNR_dB": 43.22802196674995,
+      "SSIM": 0.9943011956156018,
+      "Time_ms": 0.8168220520019531
+    },
+    {
+      "Image": "JPEG (Standard Photo)",
+      "Technique": "JPEG (Q=50)",
+      "Type": "Lossy",
+      "Original_Size_KB": 33.3486328125,
+      "Comp_Size_KB": 11.478515625,
+      "CR": 2.905308831036243,
+      "Space_Saving_%": 65.58025125186681,
+      "PSNR_dB": 36.162904083659676,
+      "SSIM": 0.9835736073136645,
+      "Time_ms": 0.6875991821289062
+    },
+    {
+      "Image": "JPEG (Standard Photo)",
+      "Technique": "JPEG (Q=15)",
+      "Type": "Lossy",
+      "Original_Size_KB": 33.3486328125,
+      "Comp_Size_KB": 7.9658203125,
+      "CR": 4.186465612357484,
+      "Space_Saving_%": 76.11350259158394,
+      "PSNR_dB": 31.284079221340914,
+      "SSIM": 0.9713287048427045,
+      "Time_ms": 0.6628036499023438
+    },
+    {
+      "Image": "SVG (Rasterized Vector)",
+      "Technique": "Huffman Coding",
+      "Type": "Lossless",
+      "Original_Size_KB": 51.3369140625,
+      "Comp_Size_KB": 245.44921875,
+      "CR": 0.2091549295774648,
+      "Space_Saving_%": -378.1144781144781,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 63.082218170166016
+    },
+    {
+      "Image": "SVG (Rasterized Vector)",
+      "Technique": "DEFLATE (zlib L9)",
+      "Type": "Lossless",
+      "Original_Size_KB": 51.3369140625,
+      "Comp_Size_KB": 32.1552734375,
+      "CR": 1.5965317216873691,
+      "Space_Saving_%": 37.36422606479104,
+      "PSNR_dB": 100.0,
+      "SSIM": 1.0,
+      "Time_ms": 13.339757919311523
+    },
+    {
+      "Image": "SVG (Rasterized Vector)",
+      "Technique": "JPEG (Q=85)",
+      "Type": "Lossy",
+      "Original_Size_KB": 51.3369140625,
+      "Comp_Size_KB": 14.1533203125,
+      "CR": 3.627199337611261,
+      "Space_Saving_%": 72.430519888147,
+      "PSNR_dB": 42.38687206225649,
+      "SSIM": 0.9981137322315411,
+      "Time_ms": 0.7150173187255859
+    },
+    {
+      "Image": "SVG (Rasterized Vector)",
+      "Technique": "JPEG (Q=50)",
+      "Type": "Lossy",
+      "Original_Size_KB": 51.3369140625,
+      "Comp_Size_KB": 9.4892578125,
+      "CR": 5.410003087372646,
+      "Space_Saving_%": 81.5157221936883,
+      "PSNR_dB": 38.79943293641239,
+      "SSIM": 0.9942934156528672,
+      "Time_ms": 0.6773471832275391
+    },
+    {
+      "Image": "SVG (Rasterized Vector)",
+      "Technique": "JPEG (Q=15)",
+      "Type": "Lossy",
+      "Original_Size_KB": 51.3369140625,
+      "Comp_Size_KB": 7.0673828125,
+      "CR": 7.263921514439685,
+      "Space_Saving_%": 86.23333143107155,
+      "PSNR_dB": 34.80938598334622,
+      "SSIM": 0.9849099669580497,
+      "Time_ms": 0.6144046783447266
+    }
+  ],
+  "imperceptibility_results": [
+    {
+      "Technique": "Visible (Alpha Blending)",
+      "Domain": "Spatial",
+      "PSNR_dB": 23.403334030878142,
+      "SSIM": 0.9673875414012039,
+      "Perceptual_Visibility": "High (Deliberately noticeable banner)"
+    },
+    {
+      "Technique": "Invisible LSB (1-bit)",
+      "Domain": "Spatial",
+      "PSNR_dB": 81.05524969011329,
+      "SSIM": 0.9999978152983363,
+      "Perceptual_Visibility": "Imperceptible (Sub-visual threshold)"
+    },
+    {
+      "Technique": "Invisible DCT (Mid-Freq)",
+      "Domain": "Frequency",
+      "PSNR_dB": 46.19200623465599,
+      "SSIM": 0.9828071966353232,
+      "Perceptual_Visibility": "Imperceptible (Spread across block spectrum)"
+    }
+  ],
+  "robustness_results": [
+    {
+      "Attack": "No Attack",
+      "LSB_NCC": 1.0,
+      "LSB_BER_%": 0.0,
+      "DCT_NCC": 1.0,
+      "DCT_BER_%": 0.0,
+      "Visible_PSNR_dB": 100.0
+    },
+    {
+      "Attack": "JPEG (Q=75)",
+      "LSB_NCC": 0.5379854781085149,
+      "LSB_BER_%": 56.8359375,
+      "DCT_NCC": 1.0,
+      "DCT_BER_%": 0.0,
+      "Visible_PSNR_dB": 38.675793458266355
+    },
+    {
+      "Attack": "JPEG (Q=30)",
+      "LSB_NCC": 0.8272046473872257,
+      "LSB_BER_%": 30.6640625,
+      "DCT_NCC": 0.056110309077124325,
+      "DCT_BER_%": 70.80078125,
+      "Visible_PSNR_dB": 33.91663756460513
+    },
+    {
+      "Attack": "Gaussian Noise (\u03c3=15)",
+      "LSB_NCC": 0.6019066118967888,
+      "LSB_BER_%": 50.29296875,
+      "DCT_NCC": 0.9764227930467159,
+      "DCT_BER_%": 3.3203125,
+      "Visible_PSNR_dB": 24.701477126907335
+    },
+    {
+      "Attack": "Cropping (15% border)",
+      "LSB_NCC": 1.0,
+      "LSB_BER_%": 70.8984375,
+      "DCT_NCC": 0.8829577142020283,
+      "DCT_BER_%": 15.625,
+      "Visible_PSNR_dB": 8.810755095411832
+    },
+    {
+      "Attack": "Resizing (50% down-up)",
+      "LSB_NCC": 0.7960435529735749,
+      "LSB_BER_%": 27.5390625,
+      "DCT_NCC": 0.07935196008581541,
+      "DCT_BER_%": 70.703125,
+      "Visible_PSNR_dB": 30.838480203534957
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Requirements for Tugas 2: Transformasi Gambar, Image Compression, dan Watermarking
+# Python >= 3.9
+numpy>=1.24.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+notebook>=6.5.0
